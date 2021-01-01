@@ -6,4 +6,4 @@ project's goal:
 - trying to set automatic bets (by predicts) in game
 
 
-example url: https://www.betfa.com/Betongames?url=Crash
+example url: https://www . betfa . com/Betongames?url=Crash
